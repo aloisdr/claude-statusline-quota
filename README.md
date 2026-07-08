@@ -27,7 +27,7 @@ Les pourcentages sont color-codés : vert < 70 %, jaune 70–89 %, rouge ≥ 90 
 Prérequis : Node.js ≥ 18, et être connecté à Claude Code avec son abonnement.
 
 ```bash
-git clone https://github.com/aloisdr/claude-statusline-quota.git
+git clone https://github.com/yeezop/claude-statusline-quota.git
 cd claude-statusline-quota
 ./install.sh
 ```
